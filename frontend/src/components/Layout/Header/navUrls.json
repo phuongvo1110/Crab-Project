@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Home",
+    "url": "/",
+    "permission": ""
+  },
+  {
+    "name": "Customer",
+    "url": "/customer",
+    "permission": ""
+  },
+  {
+    "name": "Ai Planning",
+    "url": "/suggestions",
+    "permission": ""
+  },
+  {
+    "name": "Driver",
+    "url": "/driver",
+    "permission": ""
+  },
+  {
+    "name": "Admin",
+    "url": "/dashboard",
+    "permission": ""
+  }
+]
